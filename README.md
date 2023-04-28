@@ -24,3 +24,18 @@ Services: componentes em segundo plano que executam tarefas longas sem intera√ß√
 Broadcast Receivers: componentes que respondem a eventos do sistema ou de outros aplicativos.
 
 Content Providers: componentes que gerenciam dados compartilhados entre diferentes aplicativos.
+
+Interface dos apps utilizados para analise
+
+Spotify:
+![image](https://user-images.githubusercontent.com/101645820/235243600-78e1833e-b5b8-47f8-9e06-d6836941abc5.png)
+
+Deezer:
+![image](https://user-images.githubusercontent.com/101645820/235243970-bd4cfeb5-f8fd-4399-a510-20e0f41035b6.png)
+
+SoundCloud:
+
+![image](https://user-images.githubusercontent.com/101645820/235244426-896dabdc-4c88-493a-b02f-0e880aab38e5.png)
+
+
+
